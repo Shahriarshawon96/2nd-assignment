@@ -79,11 +79,30 @@ body{
     color:#193498 ;
 }
 
+/* -----------------------preebook section -------------- */
+
+.premargine{
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 50px;
+}
+.text-color{
+    color: #193498;
+}
+p{
+    font-weight: 600;
+}
 
 
+.preebook-article{
+    width: 500px;
+}
 
-
-
+.preebook-img{
+    background-image: url(images/Circle\ design.svg);
+}
 
 
 
