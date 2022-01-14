@@ -1,0 +1,90 @@
+/* ----------------------body---------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Poppins:wght@500&display=swap');
+
+
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+/* -----------------------------header -section---------------------------- */
+.head{
+    margin-left: 100px; margin-right: 100px;
+}
+
+#intro{
+
+    font-weight: 700; font-size:20px;
+}
+
+
+
+.menu-bar{
+
+    display: flex; justify-content: space-between;
+}
+.button{ margin-top: 10px;
+
+}
+
+    
+.button1{
+    padding: 10px 15px; font-weight: 700;  color:#193498; border: 1px solid black; border-radius: 3px;
+
+    background-color: #193498;
+    color: white;
+}
+
+
+  .button2{
+    padding: 10px 15px; font-weight: 700; background-color: white; color:#113CFC; border: none; transition-duration: 0.4s;
+
+}
+
+.button2:hover {
+    background-color: #113CFC;
+    color: white;border: 1px solid #113CFC; border-radius: 3px;
+
+  }
+  .button3{
+    padding: 10px 15px; font-weight: 700; background-color: white; color:#1597E5; border: none; transition-duration: 0.6s;
+
+}
+
+.button3:hover {
+    background-color: #1597E5;
+    color: white;border: 1px solid #1597E5; border-radius: 3px;
+
+  }
+  .button4{
+    padding: 10px 15px; font-weight: 700; background-color: white; color:#69DADB; border: none;transition-duration: 0.8s;
+
+}
+
+.button4:hover {
+    background-color: #69DADB;
+    color: white;border: 1px solid #69DADB; border-radius: 3px;
+
+  }
+
+/* -----------------------------font owasome-------------- */
+
+.fa-search{
+    width: 40px; margin: 5px; color:#113CFC ;
+}
+
+.fa-shopping-cart{
+    color:#193498 ;
+}
+
+
+
+
+
+
+
+
+
+
