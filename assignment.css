@@ -126,8 +126,33 @@ border-radius: 5px;
 }
 
 
+/* --------------------------sample ------------------------ */
+
+.sample-section{
+    
+   margin-left: 180px;
 
 
+}
+.mother-sample{
+    
+}
+
+.main-sample{
+    display: grid; grid-template-columns: repeat(3, 1fr); 
+}
+
+h2{
+    margin-left: 400px; margin-top: 50px; margin-bottom: 50px;
+}
+
+
+
+
+
+.sample img{
+    width: 200px;
+}
 
 
 
