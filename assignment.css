@@ -104,6 +104,40 @@ p{
     background-image: url(images/Circle\ design.svg);
 }
 
+/* ----------------------------logo --------------------------- */
+
+.logobox{
+
+display: flex; justify-content: center; margin-top: 100px; border: 2px solid #69DADB; margin-left: 100px; margin-right: 100px;
+border-radius: 5px;
+
+}
+
+
+
+
+.logo{
+    display: grid; grid-template-columns: repeat(7, 1fr); 
+}
+
+.logo img{ padding-left: 30px; align-items: center;padding-top: 30px; padding-bottom: 20px; 
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
