@@ -92,7 +92,7 @@ h1{
     color: #193498;
 }
 p{
-    font-weight: 600;
+    font-weight: 550; color: gray;
 }
 
 
@@ -128,30 +128,32 @@ border-radius: 5px;
 
 /* --------------------------sample ------------------------ */
 
-.sample-section{
+.blog-section{
     
-   margin-left: 180px;
+   margin-left: 50px; margin-right: 50px;
 
 
-}
-.mother-sample{
-    
-}
-
-.main-sample{
-    display: grid; grid-template-columns: repeat(3, 1fr); 
 }
 
 h2{
     margin-left: 400px; margin-top: 50px; margin-bottom: 50px;
 }
 
+.top-blogs{
+    display: grid; grid-template-columns: repeat(3, 1fr); 
+}
+.fa-star{ color: gold;
 
+}
+.blogs{
+    margin: 20px; border-radius: 20px; box-shadow: 5px 5px 5px grey;
+}
+.blog img{ width: 100%; border-radius: 20px;
 
+}
 
-
-.sample img{
-    width: 200px;
+.blog-info{
+    padding-left: 20px;
 }
 
 
