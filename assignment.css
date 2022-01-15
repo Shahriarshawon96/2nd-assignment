@@ -155,7 +155,7 @@ border-radius: 5px;
 
 }
 .blog :hover{
-    transform: scale(1.3); transition: 2s;
+    transform: scale(1.3); transition-duration: 2s;
 }
 
 .blog-info{
