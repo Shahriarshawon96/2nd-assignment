@@ -157,14 +157,27 @@ h2{
 }
 
 
+/* --------------------------footer --------------------- */
+.top{
+    justify-content: center; display: grid; background-color: indigo;  
+}
+h6{
+    font-size: 25px; color: white;
+}
+.footer-article{
 
 
 
+    
+}
+.footer-article p{ color:whitesmoke ;
+    
+}
 
 
-
-
-
+.footer-icon{
+     padding-left: 60px; padding-bottom: 30px;
+}
 
 
 
